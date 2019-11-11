@@ -1,0 +1,1 @@
+echo "$1" >> ./dst_default_config/DoNotStarveTogether/Cluster_1/cluster_token.txt
